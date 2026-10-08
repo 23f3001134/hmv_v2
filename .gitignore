@@ -1,0 +1,19 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets and local data
+.env
+*.db
+backend/instance/
+
+# Node
+node_modules/
+dist/
+
+# Editor / OS
+.vscode/
+desktop.ini
+.DS_Store
